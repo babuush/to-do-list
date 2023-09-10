@@ -1,7 +1,7 @@
 # to-do-list
 [![License][license-image]][license-url]
 
-# Todo List
+# To-do List
 <code>+</code> Add tasks
 
 <code>+</code> View added tasks
